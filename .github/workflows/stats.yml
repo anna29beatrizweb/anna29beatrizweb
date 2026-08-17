@@ -9,18 +9,17 @@ permissions:
   contents: write
 
 jobs:
-  stats:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v6
 
-      - name: Generate stats
-        uses: soulteary/github-readme-stats-action@v1.0.0
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: "username=anna29beatrizweb&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false"
+          options: username=anna29beatrizweb&show_icons=true&theme=midnight-purple&hide_title=false&hide_rank=false&include_all_commits=false&count_private=true&locale=en
           path: stats-output/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
