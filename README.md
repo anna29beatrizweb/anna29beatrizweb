@@ -6,12 +6,6 @@
 
 ###
 
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUydXRuM3kwNTdjb3I5NmtyeWp0NGtyb3h0djFtbDZ4aGNqZjNrZ3IydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gk4EQicN5wKkWXtZ4T/giphy.gif" width="30%" alt="GIF" />
-</p>
-
-###
-
 <p align="left">
 Sou formada em Análise e Desenvolvimento de Sistemas pela PUCPR e busco transformar meus aprendizados em projetos, sempre evoluindo e explorando novas possibilidades na área de tecnologia.
 </p>
