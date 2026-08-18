@@ -8,7 +8,7 @@ Sou formada em Análise e Desenvolvimento de Sistemas pela PUCPR e busco transfo
 
 ###
 
-<h3 align="left">💻 Linguagens</h3>
+<h3 align="left">Linguagens</h3>
 
 ###
 
@@ -28,7 +28,7 @@ Sou formada em Análise e Desenvolvimento de Sistemas pela PUCPR e busco transfo
 
 ###
 
-<h3 align="left">🛠️ Ferramentas e Tecnologias</h3>
+<h3 align="left">Ferramentas e Tecnologias</h3>
 
 ###
 
@@ -50,7 +50,7 @@ Sou formada em Análise e Desenvolvimento de Sistemas pela PUCPR e busco transfo
 
 ###
 
-<h3 align="left">📫 Conecte-se comigo</h3>
+<h3 align="left">Conecte-se comigo</h3>
 
 ###
 
@@ -62,7 +62,7 @@ Sou formada em Análise e Desenvolvimento de Sistemas pela PUCPR e busco transfo
 
 ###
 
-<h3 align="left">📊 Minhas estatísticas no GitHub</h3>
+<h3 align="left">Minhas estatísticas no GitHub</h3>
 
 ###
 
@@ -72,7 +72,7 @@ Sou formada em Análise e Desenvolvimento de Sistemas pela PUCPR e busco transfo
 
 ###
 
-<h3 align="left">💻 Linguagens dos meus projetos</h3>
+<h3 align="left">Linguagens dos meus projetos</h3>
 
 ###
 
