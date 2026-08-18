@@ -82,10 +82,8 @@ Sou formada em Análise e Desenvolvimento de Sistemas pela PUCPR e busco transfo
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/anna29beatrizweb/anna29beatrizweb/raw/refs/heads/main/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/anna29beatrizweb/anna29beatrizweb/raw/refs/heads/main/pacman-output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://github.com/anna29beatrizweb/anna29beatrizweb/raw/refs/heads/main/pacman-output/pacman-contribution-graph.svg">
-</picture>
+<p align="center">
+  <img src="https://github.com/anna29beatrizweb/anna29beatrizweb/raw/refs/heads/main/pacman-output/pacman-contribution-graph-dark.svg" alt="Pac-Man contribution graph" />
+</p>
 
 ###
